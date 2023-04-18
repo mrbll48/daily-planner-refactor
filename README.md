@@ -8,7 +8,7 @@ Follow the link below to view the deployed application.
 [Daily Planner](https://mrbll48.github.io/daily-planner-refactor/)
 
 ## Screenshot
-![plot](./assets/workdayscheduler.png)
+![plot](./assets/dailyplanner.png)
 
 ## Usage
 The user will click into a time slot text area and type a message to save in that text area. When the save button is clicked on the right side of the row, the message will stay in the text area even after the page has been refreshed. The current date and time are displayed at the top of the page, and for easier use the current time is highlighted in red, times later in the day are highlighted in green, and times that have already passed are highlighted in gray. 
