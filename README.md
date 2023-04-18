@@ -3,6 +3,10 @@
 ## Description
 This daily calendar is designed to accept text and save it for future use. The timeslots are set up for use with the average work hours (9am - 5pm) and as the day progresses you the color of the timeslots will change based on if the time has already passed, it is currently that hour, or if the time is later in the day. 
 
+Follow the link below to view the deployed application. 
+
+[Daily Planner](https://mrbll48.github.io/daily-planner-refactor/)
+
 ## Screenshot
 ![plot](./assets/workdayscheduler.png)
 
